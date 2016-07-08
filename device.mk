@@ -275,3 +275,7 @@ PRODUCT_COPY_FILES += \
 # Boot Cleaner
 PRODUCT_COPY_FILES += \
     device/xiaomi/kenzo/prebuilt/etc/init.d/81clean:system/etc/init.d/81clean
+
+# Glove mode
+PRODUCT_PACKAGES += \
+    DeviceSettings

@@ -271,3 +271,7 @@ PRODUCT_COPY_FILES += \
 # Dalvik-Hack
 PRODUCT_COPY_FILES += \
     device/xiaomi/kenzo/prebuilt/etc/init.d/01dalvik:system/etc/init.d/01dalvik
+
+# Boot Cleaner
+PRODUCT_COPY_FILES += \
+    device/xiaomi/kenzo/prebuilt/etc/init.d/81clean:system/etc/init.d/81clean

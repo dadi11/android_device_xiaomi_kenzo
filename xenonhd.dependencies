@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "th",
+    "repository": "android_kernel_xiaomi_kenzo",
+    "target_path": "kernel/xiaomi/kenzo",
+    "revision": "mm"
+  },
+  {
+    "remote": "th",
+    "repository": "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision": "mm"
+  }
+]
